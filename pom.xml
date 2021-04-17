@@ -11,7 +11,7 @@
 	<groupId>com.elvisConsulting</groupId>
 	<artifactId>webPage</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>webPage</name>
 	<description>Elvis N&apos;guetta web page</description>
 	<properties>
